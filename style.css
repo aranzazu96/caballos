@@ -1,0 +1,48 @@
+body {
+  background-color: #f0f9ffcb;
+padding: 16;
+}
+
+h1{
+    text-align: center;
+
+}
+.imagen_perfil{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+
+ul {
+    background-color: antiquewhite;
+}
+li {
+    color: #344743cb;
+    font-style:italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
